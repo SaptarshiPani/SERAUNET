@@ -1,11 +1,10 @@
 Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention based U-Net for Skin Lesion Segmentation" :-
 
 1. Architecture of baseline RA-Net model.
-2. For PH2 dataset :-
     a. Heatmap images displaying some test images, its ground truth mask, the mask generated and the images generated after applying encoder lower, encoder higher, bottleneck and decoder respectively from PH2 dataset.
     b. Training curves displaying the history of loss, dice score, IOU, recall, precision and accuracy while training and validating the model's performance on PH2 dataset.
     c. Graphical comparison displaying how the performance of baseline model is enhanced after the snapshot ensemble technique is performed on PH2 dataset.
-4. For ISIC 2016 dataset :-
+
     a. Heatmap images displaying some test images, its ground truth mask, the mask generated and the images generated after applying encoder lower, encoder higher, bottleneck and decoder respectively from ISIC 2016 dataset.
    
    ![isic16_Heatmap_1](https://github.com/user-attachments/assets/ffd096e3-ef69-44f8-8851-ad37d784b53f)
