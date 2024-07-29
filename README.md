@@ -9,4 +9,4 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
     a. Heatmap images displaying some test images, its ground truth mask, the mask generated and the images generated after applying encoder lower, encoder higher, bottleneck and decoder respectively from ISIC 2016 dataset.
     b. Training curves displaying the history of loss, dice score, IOU, recall, precision and accuracy while training and validating the model's performance on ISIC 2016 dataset.
     c. Graphical comparison displaying how the performance of baseline model is enhanced after the snapshot ensemble technique is performed on ISIC 2016 dataset.
-4. Architecture of overall SEMRA-Net model.
+4. Workflow of overall SEMRA-Net model.
