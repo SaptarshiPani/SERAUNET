@@ -37,3 +37,5 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
     ![isic16_model comparison](https://github.com/user-attachments/assets/e7bce41d-74f4-4daa-90d9-7367dd614e7a)
    
 4. Workflow of overall SEMRA-Net model.
+   
+   ![SEMRANET_arch](https://github.com/user-attachments/assets/906b39b1-d55c-4bcb-8f94-480c1eb2afa2)
