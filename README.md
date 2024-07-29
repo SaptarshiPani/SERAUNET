@@ -10,7 +10,12 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
    ![ph2_Heatmap_5](https://github.com/user-attachments/assets/ae3f70ed-5357-483a-8d9b-a5d7d73c55a9)
 
     b. Training curves displaying the history of loss, dice score, IOU, recall, precision and accuracy while training and validating the model's performance on PH2 dataset.
+   
+    ![ph2_train curves](https://github.com/user-attachments/assets/91c4602d-8889-4efa-a791-2e657f3d0b43)
+
     c. Graphical comparison displaying how the performance of baseline model is enhanced after the snapshot ensemble technique is performed on PH2 dataset.
+   
+    ![ph2_model comparison](https://github.com/user-attachments/assets/4bd01ede-fe6c-48fa-92e3-8773a763a20d)
 
     a. Heatmap images displaying some test images, its ground truth mask, the mask generated and the images generated after applying encoder lower, encoder higher, bottleneck and decoder respectively from ISIC 2016 dataset.
    
@@ -21,5 +26,11 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
    ![isic16_Heatmap_5](https://github.com/user-attachments/assets/54610014-f84a-4713-b009-4c6d9f65ae44)
 
     b. Training curves displaying the history of loss, dice score, IOU, recall, precision and accuracy while training and validating the model's performance on ISIC 2016 dataset.
+   
+    ![isic16_train curves](https://github.com/user-attachments/assets/f5a2f9ae-423e-4245-8e18-05d15a533171)
+   
     c. Graphical comparison displaying how the performance of baseline model is enhanced after the snapshot ensemble technique is performed on ISIC 2016 dataset.
+   
+    ![isic16_model comparison](https://github.com/user-attachments/assets/e7bce41d-74f4-4daa-90d9-7367dd614e7a)
+   
 6. Workflow of overall SEMRA-Net model.
