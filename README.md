@@ -2,6 +2,13 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
 
 1. Architecture of baseline RA-Net model.
     a. Heatmap images displaying some test images, its ground truth mask, the mask generated and the images generated after applying encoder lower, encoder higher, bottleneck and decoder respectively from PH2 dataset.
+   
+   ![ph2_Heatmap_1](https://github.com/user-attachments/assets/3aa85ab3-f265-48a2-8a74-d30af7f31daa)
+   ![ph2_Heatmap_2](https://github.com/user-attachments/assets/bba1a3a8-b363-431d-ac20-92a7f6dd72fa)
+   ![ph2_Heatmap_3](https://github.com/user-attachments/assets/c97325d2-9c2d-4b33-a708-8e912835a749)
+   ![ph2_Heatmap_4](https://github.com/user-attachments/assets/4de39aea-6497-4f0a-bfdb-f70a5d6370a1)
+   ![ph2_Heatmap_5](https://github.com/user-attachments/assets/ae3f70ed-5357-483a-8d9b-a5d7d73c55a9)
+
     b. Training curves displaying the history of loss, dice score, IOU, recall, precision and accuracy while training and validating the model's performance on PH2 dataset.
     c. Graphical comparison displaying how the performance of baseline model is enhanced after the snapshot ensemble technique is performed on PH2 dataset.
 
