@@ -1,5 +1,3 @@
-**Official implementation of SERAU-NET. Paper accepted at SIPAIM 2024 Conference.**
-
 Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention based U-Net for Skin Lesion Segmentation" :-
 
 1. Workflow of overall SERAU-Net model.
