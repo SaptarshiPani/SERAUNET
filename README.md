@@ -8,7 +8,7 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
    
     ![RA_arch](https://github.com/user-attachments/assets/e0a8f3b1-e02b-42bc-a3fb-658d340a7488)
 
-3. Study table of the variation of ensemble model's performance and computation time on both PH2 and ISIC datasets.
+3. Study table of the variation of ensemble model's performance and computation time on both PH2 and ISIC datasets. The computation is done on the basis of the run time of the ensemble model on Kaggle's GPU T4 x2 for both the datasets.
 
    ![snap](https://github.com/user-attachments/assets/01738755-40ed-4a23-905e-cec8fd8c5f74)
    
