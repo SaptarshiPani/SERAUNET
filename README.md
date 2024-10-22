@@ -39,3 +39,5 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
     4c. Graphical comparison displaying how the performance of baseline model is enhanced after the snapshot ensemble technique is performed on ISIC 2016 dataset.
    
     ![isic16_model comparison](https://github.com/user-attachments/assets/e7bce41d-74f4-4daa-90d9-7367dd614e7a)
+
+   5. Study table of the variation of ensemble model's performance and computation time on both PH2 and ISIC datasets.
