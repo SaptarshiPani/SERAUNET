@@ -40,4 +40,4 @@ Additional Results of "SERAU-Net: Snapshot Ensemble-aided Region-Aware Attention
    
     ![isic16_model comparison](https://github.com/user-attachments/assets/e7bce41d-74f4-4daa-90d9-7367dd614e7a)
 
-   5. Study table of the variation of ensemble model's performance and computation time on both PH2 and ISIC datasets.
+5. Study table of the variation of ensemble model's performance and computation time on both PH2 and ISIC datasets.
